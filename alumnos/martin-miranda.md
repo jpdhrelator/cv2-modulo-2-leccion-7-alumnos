@@ -1,12 +1,16 @@
 # Martin Miranda
 
 ## Sobre mí
-Hola, soy Martin. Estoy aprendiendo a usar git
+Hola, soy Martin. Estoy aprendiendo a usar git.
 
 ## Stack
-- HTML
-- CSS
-- JavaScript
+| Tecnología | Nivel |
+| :--- | :--- |
+| HTML | Aprendiendo |
+| CSS | Aprendiendo |
+| JavaScript | Aprendiendo |
 
 ## Contacto
-[Mi GitHub](https://github.com/sh1fter6)
+| Plataforma | Enlace |
+| :--- | :--- |
+| GitHub | [Mi GitHub](https://github.com/sh1fter6) |
